@@ -1,2 +1,2 @@
 # glossario-tecnico1
-glossario 
+Glossário Técnico para consulta de tags de HTML, CSS e Java Script
